@@ -95,7 +95,7 @@ lidar_navigation/
 
 ```bash
 # 1. Depoyu klonla
-git clone https://github.com/KULLANICI_ADI/lidar_navigation.git
+git clone [https://github.com/KULLANICI_ADI/lidar_navigation.git](https://github.com/silaersan14/Mobil-Robot-Odev)
 cd lidar_navigation
 
 # 2. Sanal ortam oluştur (önerilir)
