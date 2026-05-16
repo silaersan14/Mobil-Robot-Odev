@@ -139,7 +139,7 @@ Bu projede aşağıdaki yapay zeka araçları kullanılmıştır:
 |------|-------|---------------|
 | Claude | claude-sonnet-4-6 | Kod iskeleti oluşturma, EKF matematiksel yapısı, hata ayıklama desteği, README ve rapor metin düzenlemesi |
 
-**Öğrencinin katkıları:**
+**Katkılarım:**
 - Proje senaryosunun ve sistem mimarisinin tasarlanması
 - Kodların test edilmesi, çalıştırılması ve gerekli düzeltmelerin yapılması
 - Sonuç grafiklerinin, hata analizinin ve değerlendirme yorumlarının hazırlanması
